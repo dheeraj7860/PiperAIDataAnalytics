@@ -1,0 +1,13 @@
+{
+  "email": "dheerajkumarsharmaa@gmail.com",
+  "chapters": [
+    {"chapter": "Briefing Room", "score": 10, "status": "Completed"},
+    {"chapter": "Arrival on Piper Alpha", "score": 10, "status": "Completed"},
+    {"chapter": "Maintenance Area", "score": 9, "status": "Completed"},
+    {"chapter": "Precursor to Disaster", "score": 9, "status": "Completed"},
+    {"chapter": "Explosion Simulation", "score": 8, "status": "Completed"},
+    {"chapter": "Escape Aftermath", "score": 9, "status": "Completed"},
+    {"chapter": "Debrief", "score": 10, "status": "Completed"}
+  ]
+}
+
